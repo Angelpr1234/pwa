@@ -1,0 +1,21 @@
+{
+  "name": "Aplicación Web Progresiva",
+  "short_name": "PWA App",
+  "description": "Una simple aplicación web progresiva para registrar usuarios.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#333333",
+  "icons": [
+    {
+      "src": "icons/681494.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/images.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
